@@ -47,6 +47,17 @@ main {
     width: 100%;
 }
 
+p {
+    font-family: 'Cutive Mono', monospace;
+
+}
+
+.about {
+    width: 60%;
+    margin: 0 auto;
+    line-height: 200%;
+}
+
 .gif {
     text-align: center;
 }

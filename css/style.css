@@ -10,6 +10,7 @@ html {
 
 .full-gif {
     background-image: url("../img/main.gif");
+    /* https://thumbs.gfycat.com/GrizzledDeafeningBarracuda-max-1mb.gif */
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -71,15 +72,6 @@ p {
     font-size: 20px;
     margin-bottom: 100px;
 }
-
-/* .gif {
-    text-align: center;
-}
-
-.gif img {
-    width: 900px;
-
-} */
 
 .secondary-header {
     font-size: 6em;
